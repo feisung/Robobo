@@ -11,6 +11,8 @@ Web: http://robobo.org or http://wiki.robobo.org
 Twitter: @RoboboInc
 
 ----------
+To Get started using the Necto Arduino Firmware, please enure to add the Arduino Library Dependency files to your corresponding ~/Arduino/library folder, otherwise the code will not compile. 
+More details available at http://wiki.robobo.org
 
 Thanks for viewing Necto Source Files!
 
